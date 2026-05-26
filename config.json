@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailderify",
+        "uuid": 1963441,
+        "checksum": "njstsk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
